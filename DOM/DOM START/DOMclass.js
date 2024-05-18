@@ -1,0 +1,1 @@
+document.getElementsByClassName("heading1")[0].innerHTML="hi"

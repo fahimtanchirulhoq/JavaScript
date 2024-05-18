@@ -1,0 +1,1 @@
+document.getElementsByTagName("p1")[0].innerHTML="Hello";
