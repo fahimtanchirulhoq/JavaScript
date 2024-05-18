@@ -1,0 +1,12 @@
+button
+{
+    width: 163px;
+    height: 200px;
+    margin: 27px;
+    background-color: #26bb4b; 
+  }
+  
+  .anim {
+      box-shadow: 0 15px 18px tomato ;
+      opacity: 2.0;
+  }
